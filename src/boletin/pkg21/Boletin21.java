@@ -1,6 +1,6 @@
-package boletin.pkg20;
+package boletin.pkg21;
 
-public class Boletin20 {
+public class Boletin21 {
 
     public static void main(String[] args) {
         // TODO code application logic here

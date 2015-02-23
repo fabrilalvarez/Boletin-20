@@ -1,4 +1,4 @@
-package boletin.pkg20;
+package boletin.pkg21;
 
 import javax.swing.JOptionPane;
 
